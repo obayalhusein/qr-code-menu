@@ -5,107 +5,107 @@
             {
                 "image": "hot-drink/turkish-coffee.jpg",
                 "name": "قهوة تركية",
-                "price": 0
+                "price": 1
             },
             {
                 "image": "hot-drink/turkish-coffee.jpg",
                 "name": "قهوة تركية دبل",
-                "price": 0
+                "price": 1.5
             },
             {
                 "image": "hot-drink/espresso.webp",
                 "name": "اسبريسو دبل",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/americano.jpeg",
                 "name": "امريكانو",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "hot-drink/latte.jpg",
                 "name": "لاتيه",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "hot-drink/cappuccino.webp",
                 "name": "كابتشينو",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "hot-drink/mocca.jpg",
                 "name": "موكا",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "hot-drink/caramel_macchiato.jpg",
                 "name": "كارميل ميكياتو",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hot-drink/french-coffee.jpg",
                 "name": "قهوة فرنسية",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hot-drink/nescafe-black.webp",
                 "name": "نيسكافيه بلاك",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/nescafe-with-milk.jpeg",
                 "name": "نيسكافيه بالحليب",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/nescafe-3-in-1.webp",
                 "name": "نيسكافيه 3 إن 1",
-                "price": 0
+                "price": 1
             },
             {
                 "image": "hot-drink/hot-chocolate.jpg",
                 "name": "هوت تشوكليت",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/tea-with-ment.webp",
                 "name": "شاي",
-                "price": 0
+                "price": 1
             },
             {
                 "image": "hot-drink/herbs.jpg",
                 "name": "زهورات",
-                "price": 0
+                "price": 1
             },
             {
                 "image": "hot-drink/tea-with-milk.jpeg",
                 "name": "شاي بالحليب",
-                "price": 0
+                "price": 1.5
             },
             {
                 "image": "hot-drink/karak-tea.jpeg",
                 "name": "شاي كرك",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/herbs-with-milk.jpeg",
                 "name": "زهورات بالحليب",
-                "price": 0
+                "price": 1.5
             },
             {
                 "image": "hot-drink/ginger-with-milk.jpg",
                 "name": "زنجبيل بالحليب",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/ginger-tea-lemon.webp",
                 "name": "زنجبيل بالليمون والعسل",
-                "price": 0
+                "price": 1.75
             },
             {
                 "image": "hot-drink/sahlab.jpeg",
                 "name": "سحلب",
-                "price": 0
+                "price": 1.75
             }
         ]
     },
@@ -115,22 +115,22 @@
             {
                 "image": "cold-coffee/caramel-frappuccino.jpg",
                 "name": "فرابتشينو كاراميل",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "cold-coffee/iced-latte.jpg",
                 "name": "أيسد لاتيه",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "cold-coffee/iced-americano.jpg",
                 "name": "أيسد أمريكانو",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "cold-coffee/iced-mocha.jpg",
                 "name": "أيسد موكا",
-                "price": 0
+                "price": 2
             }
         ]
     },
@@ -140,32 +140,32 @@
             {
                 "image": "cold-drink/matrix.jpeg",
                 "name": "سوفت درينك",
-                "price": 0
+                "price": 1
             },
             {
                 "image": "cold-drink/barbican.jpg",
                 "name": "باربيكان",
-                "price": 0
+                "price": 1.5
             },
             {
                 "image": "cold-drink/boom-boom.jpg",
                 "name": "بوم بوم",
-                "price": 0
+                "price": 1.5
             },
             {
                 "image": "cold-drink/boom-boom-mojito.jpeg",
                 "name": "موهيتو بوم بوم",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "cold-drink/redbull.webp",
                 "name": "ريدبول",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "cold-drink/redbull-mojito.jpg",
                 "name": "موهيتو ريدبول",
-                "price": 0
+                "price": 2.75
             }
         ]
     },
@@ -175,82 +175,82 @@
             {
                 "image": "juice/lemon-juice.webp",
                 "name": "عصير ليمون",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "juice/lemon-mint.webp",
                 "name": "عصير ليمون ونعنع",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "juice/orange.jpeg",
                 "name": "عصير برتقال",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "juice/mango.jpg",
                 "name": "عصير منجا",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "juice/strawberry.png",
                 "name": "عصير فراولة",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "juice/pomegranate.jpeg",
                 "name": "عصير رمان",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "juice/karkade.jpg",
                 "name": "كركديه",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "juice/kiwi.avif",
                 "name": "عصير كيوي",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "juice/kiwi-lemon.jpg",
                 "name": "عصير كيوي وليمون",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "juice/kiwi-and-strawberry.jpg",
                 "name": "عصير كيوي وفراولة",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "cocktail/cocktail.jpg",
                 "name": "كوكتيل سادة",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "cocktail/fruit.jpg",
                 "name": "كوكتيل قطع",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "cocktail/avocado.jpg",
                 "name": "كوكتيل أفوكادو بالعسل والمكسرات",
-                "price": 0
+                "price": 3.5
             },
             {
                 "image": "cocktail/banana.avif",
                 "name": "كوكتيل موز وحليب",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "cocktail/banana-nuts.jpg",
                 "name": "كوكتيل موز وحليب وعسل ومكسرات",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "cocktail/embrator.jpg",
                 "name": "كوكتيل الإمبراطور",
-                "price": 0
+                "price": 2.5
             }
         ]
     },
@@ -260,37 +260,37 @@
             {
                 "image": "milkshake/vanilla.jpeg",
                 "name": "ميلك شيك فانيلا",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "milkshake/chocolate.jpg",
                 "name": "ميلك شيك تشوكليت",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "milkshake/oreo.avif",
                 "name": "ميلك شيك أوريو",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "milkshake/snickers.jpg",
                 "name": "ميلك شيك سنيكرز",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "milkshake/strawberry.webp",
                 "name": "ميلك شيك فراولة",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "milkshake/krokan.jpg",
                 "name": "ميلك شيك كروكان",
-                "price": 0
+                "price": 2.25
             },
             {
                 "image": "milkshake/arabic.png",
                 "name": "ميلك شيك عربية",
-                "price": 0
+                "price": 2.25
             }
         ]
     },
@@ -300,32 +300,32 @@
             {
                 "image": "ice-cream/vanilla.jpeg",
                 "name": "فانيلا",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "ice-cream/oreo.jpeg",
                 "name": "اوريو",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "ice-cream/chocolate.webp",
                 "name": "تشوكليت",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "ice-cream/snickers.webp",
                 "name": "سنكرز",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "ice-cream/arabic.jpg",
                 "name": "عربية",
-                "price": 0
+                "price": 2
             },
             {
                 "image": "ice-cream/krokanis.jpeg",
                 "name": "كروكان",
-                "price": 0
+                "price": 2
             }
         ]
     },
@@ -335,82 +335,82 @@
             {
                 "image": "hookah/two-apples.jpg",
                 "name": "تفاحتين نخلة",
-                "price": 0
+                "price": 3.25
             },
             {
                 "image": "hookah/two-apples.jpg",
                 "name": "تفاحتين مزايا",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/lemon-ment.jpg",
                 "name": "ليمون ونعنع",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/water-melon-ment.jpg",
                 "name": "بطيخ ونعنع",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/grapes.jpg",
                 "name": "عنب",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/grapes-ment.jpg",
                 "name": "عنب ونعنع",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/grapes-blueberry.jpg",
                 "name": "عنب وتوت",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/blueberry.jpg",
                 "name": "بلوبيري",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/gum-ment.jpg",
                 "name": "علكة ونعنع",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/cinimon-gum.jpg",
                 "name": "علكة وقرفة",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/gum.jpg",
                 "name": "مستكة",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/candy.jpg",
                 "name": "كاندي",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/special.jpg",
                 "name": "سبيشل",
-                "price": 0
+                "price": 2.5
             },
             {
                 "image": "hookah/zaghlol.jpg",
                 "name": "زغلول",
-                "price": 0
+                "price": 3
             },
             {
                 "image": "hookah/head-nakhla.jpg",
                 "name": "تجديد راس نخلة",
-                "price": 0
+                "price": 1.35
             },
             {
                 "image": "hookah/head-mazaya.jpg",
                 "name": "تجديد راس مزايا",
-                "price": 0
+                "price": 1
             }
         ]
     }
