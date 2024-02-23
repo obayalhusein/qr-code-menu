@@ -7,7 +7,7 @@
           {{ category.title }}
         </h2>
         <v-row>
-          <v-col xs="12" sm="6" md="4" lg="3" v-for="product in category.items">
+          <v-col cols="6" xs="6" sm="6" md="4" lg="3" v-for="product in category.items">
             <ProductItem :product="product" />
           </v-col>
         </v-row>
@@ -28,7 +28,6 @@ export default {
         };
     },
     mounted() {
-        console.log(products);
         this.products = products;
     },
     components: { ProductItem }

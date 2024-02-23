@@ -14,9 +14,9 @@
 
     <v-img
       cover
-      height="250"
+      aspect-ratio="1/1"
       :src="`/images/products/${product.image}`"
-    ></v-img>
+    />
 
     <v-card-item>
       <v-card-title>
