@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app dir="rtl">
     <v-app-bar fixed app>
       <v-toolbar-title>{{ title }}</v-toolbar-title>
     </v-app-bar>
@@ -19,21 +19,6 @@ export default {
   name: 'DefaultLayout',
   data () {
     return {
-      clipped: false,
-      drawer: false,
-      fixed: false,
-      items: [
-        {
-          icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/'
-        },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
-        }
-      ],
       title: 'حكايا الفنجان'
     }
   }
