@@ -143,9 +143,19 @@
                 "price": 1
             },
             {
+                "image": "cold-drink/matrix-mojito.png",
+                "name": "موهيتو ماتركس",
+                "price": 1.5
+            },
+            {
                 "image": "cold-drink/barbican.jpg",
                 "name": "باربيكان",
                 "price": 1.5
+            },
+            {
+                "image": "cold-drink/mexican.jpg",
+                "name": "بيرة مكسيكي",
+                "price": 2
             },
             {
                 "image": "cold-drink/boom-boom.jpg",
