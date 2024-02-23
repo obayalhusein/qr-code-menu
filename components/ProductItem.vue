@@ -12,11 +12,14 @@
       ></v-progress-linear>
     </template>
 
-    <v-img
-      cover
-      aspect-ratio="1/1"
-      :src="`/images/products/${product.image}`"
-    />
+    <div style="aspect-ratio: 1">
+        <v-img
+        cover
+        aspect-ratio="1/1"
+        :src="`/images/products/${product.image}`"
+        style="height: 100%"
+        ></v-img>
+    </div>
 
     <v-card-item>
       <v-card-title>
