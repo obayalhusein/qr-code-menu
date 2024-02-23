@@ -1,13 +1,12 @@
 <template>
   <div>
-    <h1>قائمة المشروبات</h1>
     <div v-if="products">
       <div v-for="category in products" class="mb-10">
         <h2 class="mb-5">
           {{ category.title }}
         </h2>
         <v-row>
-          <v-col cols="6" xs="6" sm="6" md="4" lg="3" v-for="product in category.items">
+          <v-col cols="6" xs="6" sm="6" md="4" lg="2" v-for="product in category.items">
             <ProductItem :product="product" />
           </v-col>
         </v-row>

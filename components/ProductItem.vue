@@ -2,6 +2,8 @@
   <v-card
     :loading="loading"
     class="mx-auto"
+    variant="outlined"
+    style="height: 100%"
   >
     <template v-slot:loader="{ isActive }">
       <v-progress-linear

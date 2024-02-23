@@ -33,6 +33,11 @@
                 "price": 0
             },
             {
+                "image": "hot-drink/mocca.jpg",
+                "name": "موكا",
+                "price": 0
+            },
+            {
                 "image": "hot-drink/caramel_macchiato.jpg",
                 "name": "كارميل ميكياتو",
                 "price": 0
@@ -55,6 +60,11 @@
             {
                 "image": "hot-drink/nescafe-3-in-1.webp",
                 "name": "نيسكافيه 3 إن 1",
+                "price": 0
+            },
+            {
+                "image": "hot-drink/hot-chocolate.jpg",
+                "name": "هوت تشوكليت",
                 "price": 0
             },
             {
@@ -100,6 +110,31 @@
         ]
     },
     {
+        "title": "قهوة باردة",
+        "items": [
+            {
+                "image": "cold-coffee/caramel-frappuccino.jpg",
+                "name": "فرابتشينو كاراميل",
+                "price": 0
+            },
+            {
+                "image": "cold-coffee/iced-latte.jpg",
+                "name": "أيسد لاتيه",
+                "price": 0
+            },
+            {
+                "image": "cold-coffee/iced-americano.jpg",
+                "name": "أيسد أمريكانو",
+                "price": 0
+            },
+            {
+                "image": "cold-coffee/iced-mocha.jpg",
+                "name": "أيسد موكا",
+                "price": 0
+            }
+        ]
+    },
+    {
         "title": "مشروبات باردة",
         "items": [
             {
@@ -118,18 +153,143 @@
                 "price": 0
             },
             {
+                "image": "cold-drink/boom-boom-mojito.jpeg",
+                "name": "موهيتو بوم بوم",
+                "price": 0
+            },
+            {
                 "image": "cold-drink/redbull.webp",
                 "name": "ريدبول",
                 "price": 0
             },
             {
-                "image": "cold-drink/turkish-coffee.jpg",
-                "name": "كروكان",
+                "image": "cold-drink/redbull-mojito.jpg",
+                "name": "موهيتو ريدبول",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "title": "عصائر وكوكتيلات",
+        "items": [
+            {
+                "image": "juice/lemon-juice.webp",
+                "name": "عصير ليمون",
                 "price": 0
             },
             {
-                "image": "cold-drink/turkish-coffee.jpg",
-                "name": "ليمون ونعنع",
+                "image": "juice/lemon-mint.webp",
+                "name": "عصير ليمون ونعنع",
+                "price": 0
+            },
+            {
+                "image": "juice/orange.jpeg",
+                "name": "عصير برتقال",
+                "price": 0
+            },
+            {
+                "image": "juice/mango.jpg",
+                "name": "عصير منجا",
+                "price": 0
+            },
+            {
+                "image": "juice/strawberry.png",
+                "name": "عصير فراولة",
+                "price": 0
+            },
+            {
+                "image": "juice/pomegranate.jpeg",
+                "name": "عصير رمان",
+                "price": 0
+            },
+            {
+                "image": "juice/karkade.jpg",
+                "name": "كركديه",
+                "price": 0
+            },
+            {
+                "image": "juice/kiwi.avif",
+                "name": "عصير كيوي",
+                "price": 0
+            },
+            {
+                "image": "juice/kiwi-lemon.jpg",
+                "name": "عصير كيوي وليمون",
+                "price": 0
+            },
+            {
+                "image": "juice/kiwi-and-strawberry.jpg",
+                "name": "عصير كيوي وفراولة",
+                "price": 0
+            },
+            {
+                "image": "cocktail/cocktail.jpg",
+                "name": "كوكتيل سادة",
+                "price": 0
+            },
+            {
+                "image": "cocktail/fruit.jpg",
+                "name": "كوكتيل قطع",
+                "price": 0
+            },
+            {
+                "image": "cocktail/avocado.jpg",
+                "name": "كوكتيل أفوكادو بالعسل والمكسرات",
+                "price": 0
+            },
+            {
+                "image": "cocktail/banana.avif",
+                "name": "كوكتيل موز وحليب",
+                "price": 0
+            },
+            {
+                "image": "cocktail/banana-nuts.jpg",
+                "name": "كوكتيل موز وحليب وعسل ومكسرات",
+                "price": 0
+            },
+            {
+                "image": "cocktail/embrator.jpg",
+                "name": "كوكتيل الإمبراطور",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "title": "ميلك شيك",
+        "items": [
+            {
+                "image": "milkshake/vanilla.jpeg",
+                "name": "ميلك شيك فانيلا",
+                "price": 0
+            },
+            {
+                "image": "milkshake/chocolate.jpg",
+                "name": "ميلك شيك تشوكليت",
+                "price": 0
+            },
+            {
+                "image": "milkshake/oreo.avif",
+                "name": "ميلك شيك أوريو",
+                "price": 0
+            },
+            {
+                "image": "milkshake/snickers.jpg",
+                "name": "ميلك شيك سنيكرز",
+                "price": 0
+            },
+            {
+                "image": "milkshake/strawberry.webp",
+                "name": "ميلك شيك فراولة",
+                "price": 0
+            },
+            {
+                "image": "milkshake/krokan.jpg",
+                "name": "ميلك شيك كروكان",
+                "price": 0
+            },
+            {
+                "image": "milkshake/arabic.png",
+                "name": "ميلك شيك عربية",
                 "price": 0
             }
         ]
@@ -155,6 +315,16 @@
             {
                 "image": "ice-cream/snickers.webp",
                 "name": "سنكرز",
+                "price": 0
+            },
+            {
+                "image": "ice-cream/arabic.jpg",
+                "name": "عربية",
+                "price": 0
+            },
+            {
+                "image": "ice-cream/krokanis.jpeg",
+                "name": "كروكان",
                 "price": 0
             }
         ]
@@ -210,6 +380,26 @@
             {
                 "image": "hookah/cinimon-gum.jpg",
                 "name": "علكة وقرفة",
+                "price": 0
+            },
+            {
+                "image": "hookah/gum.jpg",
+                "name": "مستكة",
+                "price": 0
+            },
+            {
+                "image": "hookah/candy.jpg",
+                "name": "كاندي",
+                "price": 0
+            },
+            {
+                "image": "hookah/special.jpg",
+                "name": "سبيشل",
+                "price": 0
+            },
+            {
+                "image": "hookah/zaghlol.jpg",
+                "name": "زغلول",
                 "price": 0
             },
             {
