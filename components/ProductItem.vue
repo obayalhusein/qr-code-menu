@@ -21,18 +21,15 @@
         ></v-img>
     </div>
 
-    <v-card-item>
-      <v-card-title>
-        {{ product.name }}
-      </v-card-title>
-    </v-card-item>
-
-    <v-divider class="mx-4 mb-1"></v-divider>
-
-    <v-card-title>
-        {{ product.price }}
-        دينار
-    </v-card-title>
+    <v-card-text>
+        <h3>
+            {{ product.name }}
+        </h3>
+        <div>
+            {{ product.price }}
+            دينار
+        </div>
+    </v-card-text>
   </v-card>
 </template>
 
