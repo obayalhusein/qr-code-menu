@@ -13,6 +13,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
+      { hid: 'image_src', name: 'image_src', content: '/images/thumbnail/social.jpg' },
       { hid: 'og:image', property: 'og:image', content: '/images/thumbnail/social.jpg' },
       { hid: 'twitter:image', name: 'twitter:image', content: '/images/thumbnail/social.jpg' }
     ],
