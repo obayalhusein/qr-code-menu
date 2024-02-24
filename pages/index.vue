@@ -2,7 +2,7 @@
   <div>
     <div v-if="products">
       <div v-for="category in products" class="mb-10">
-        <h2 class="mb-5">
+        <h2 class="category-title mb-5">
           {{ category.title }}
         </h2>
         <v-row>

@@ -10,3 +10,14 @@ body {
 .v-application {
     font-family: "Tajawal", sans-serif !important;
 }
+
+.category-title {
+    background: white;
+    position: sticky;
+    top: 56px;
+    z-index: 1;
+    padding: 0.5rem;
+    width: calc(100% + 1rem);
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+}
