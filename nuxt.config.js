@@ -11,11 +11,16 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'كوفي شوب حكايا الفنجان - مرج الحمام - إسكان عالية' },
       { name: 'format-detection', content: 'telephone=no' },
-      { hid: 'image_src', name: 'image_src', content: '/images/thumbnail/social.jpg' },
-      { hid: 'og:image', property: 'og:image', content: '/images/thumbnail/social.jpg' },
-      { hid: 'twitter:image', name: 'twitter:image', content: '/images/thumbnail/social.jpg' }
+      { hid: 'image_src', name: 'image_src', content: 'https://hkaya.vercel.app/images/thumbnail/social.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://hkaya.vercel.app/images/thumbnail/social.jpg' },
+      { hid: 'twitter:image', name: 'twitter:image', content: 'https://hkaya.vercel.app/images/thumbnail/social.jpg' },
+
+      { hid: 'og:title', property: 'og:title', content: 'حكايا الفنجان - قائمة' },
+      { hid: 'twitter:title', name: 'twitter:title', content: 'حكايا الفنجان - قائمة' },
+      { hid: 'og:description', property: 'og:description', content: 'كوفي شوب حكايا الفنجان - مرج الحمام - إسكان عالية' },
+      { hid: 'twitter:description', name: 'twitter:description', content: 'كوفي شوب حكايا الفنجان - مرج الحمام - إسكان عالية' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
