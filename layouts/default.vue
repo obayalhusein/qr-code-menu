@@ -1,6 +1,6 @@
 <template>
   <v-app dir="rtl">
-    <v-app-bar fixed app>
+    <v-app-bar fixed app elevation="0" style="background: white">
       <v-toolbar-title>
         <v-img
           src="/images/logo/text-and-symbol.svg"
