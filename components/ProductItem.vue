@@ -3,7 +3,7 @@
     :loading="loading"
     class="mx-auto"
     variant="outlined"
-    style="height: 100%"
+    style="height: 100%; overflow: hidden;"
   >
     <template v-slot:loader="{ isActive }">
       <v-progress-linear
